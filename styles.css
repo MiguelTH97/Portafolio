@@ -55,7 +55,7 @@ h2{
 #check{
     display: none;
 }
- 
+
 
 /* MAIN */
 
@@ -93,7 +93,6 @@ line-height: normal;
 .p-ini{
     background-color: brown;
     width: 20%;
-   
 }
 
 p{
@@ -202,7 +201,6 @@ width:100%;
 
     .menu-nav{
         text-align: center;
-        margin-left: %;
         font-size: 15PX;
         }
 
